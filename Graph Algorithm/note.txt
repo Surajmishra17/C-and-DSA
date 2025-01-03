@@ -1,0 +1,9 @@
+when number of edges < no. of vertex --> kruskal
+
+when no. of edges > no. of vertex --> prims
+
+both are greedy algo
+
+if wt of all edges is same then u should go with bfs also 
+
+when the wt of edges is binary then to find shortest path prefer (0-1)BFS in this we use dequeue. 
